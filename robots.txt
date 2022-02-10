@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-10-feb.pages.dev/sitemap.xml
